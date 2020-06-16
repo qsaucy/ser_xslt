@@ -212,7 +212,7 @@
 					<xsl:text>.png</xsl:text>
 				</xsl:attribute>
 
-					><!-- NB : La sources d'images utilisées provient de :  https://github.com/fanzeyi/pokemon.json    -->
+					<!-- NB : La sources d'images utilisées provient de :  https://github.com/fanzeyi/pokemon.json    -->
 			</img>
 
 		</xsl:template>
